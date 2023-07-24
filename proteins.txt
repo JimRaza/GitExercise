@@ -1,3 +1,3 @@
-Lysome Chicken
-Lysome Human
-PFKM Human
+Lysome Chicken 11
+Lysome Human  2
+PFKM Human  4
